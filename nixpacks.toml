@@ -19,8 +19,8 @@ cmds = [
   
   "npm -v",
   "composer install --no-dev --optimize-autoloader --no-interaction",
-  "npm install"
-  "php artisan db:seed --force",
+  "npm install",
+  "php artisan db:seed --force"
 ]
 
 [phases.build]
