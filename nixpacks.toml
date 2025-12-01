@@ -20,7 +20,7 @@ cmds = [
   "npm -v",
   "composer install --no-dev --optimize-autoloader --no-interaction",
   "npm install",
-  "php artisan migrate --force"
+  "php artisan migrate --force",
   "php artisan db:seed --force"
 ]
 
