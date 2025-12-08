@@ -154,3 +154,4 @@ websitewisatadesa/
 -   Sesuaikan nama database di .env dengan phpMyAdmin.
 
 -   Jika menggunakan asset frontend (CSS/JS) dengan Vite, jalankan juga npm run dev atau npm run build sesuai kebutuhan.
+
