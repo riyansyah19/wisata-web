@@ -51,10 +51,7 @@
                 LOGIN
             </button>
 
-            <div class="text-center mt-4">
-                <a href="{{ route('password.request') }}" class="text-sm text-teal-700 hover:underline">Forgot
-                    password?</a>
-            </div>
+            
         </form>
     </div>
 </body>
