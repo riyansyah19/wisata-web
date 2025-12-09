@@ -60,9 +60,9 @@
             <div>
                 <h2 class="mb-4 text-sm font-semibold uppercase">Kontak</h2>
                 <ul class="text-gray-600 text-sm space-y-2">
-                    <li>📍 Jl. Kalimasada No. 157, Dsn. Soka, Desa Lerep</li>
-                    <li>📞 0857 1336 6268</li>
-                    <li>📩 desawisatalerep_dwl@yahoo.com</li>
+                    <li>📍 JL Gotong Royong No.1, Lingkungan Delama, Pajagalan, Kecamatan Kota, Kabupaten Sumenep, Jawa Timur 69416</li>
+                    <li>📞 0823 3315 1497</li>
+                    <li>📩 http://disparbudpora.sumenepkab.go.id/</li>
                     <li>🕘 Senin – Sabtu (08.00 – 16.00 WIB)</li>
                 </ul>
             </div>
