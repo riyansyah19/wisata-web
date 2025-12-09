@@ -63,9 +63,9 @@
                         alt="logo-desa-lerep" />
                     <div class="flex items-center justify-center text-gray-700 text-lg">
                         <i class="fas fa-phone-alt text-orange-500 mr-2"></i>
-                        <a href="https://wa.me/6289655491853?text={{ urlencode('Halo, saya ingin tanya tentang Paket Wisata & Makrab') }}"
+                        <a href="https://wa.me/6281334856534?text={{ urlencode('Halo, saya ingin tanya tentang Paket Wisata & Makrab') }}"
                             target="_blank" class="hover:underline">
-                            0896 5549 1853
+                            081334856534
                         </a>
                     </div>
                 </div>
@@ -77,16 +77,16 @@
                     <div class="text-gray-700 text-lg space-y-2">
                         <div class="flex items-center justify-center">
                             <i class="fas fa-phone-alt text-orange-500 mr-2"></i>
-                            <a href="https://wa.me/6285643545218?text={{ urlencode('Halo, saya ingin tanya tentang Paket Study Banding') }}"
+                            <a href="https://wa.me/6282333151697?text={{ urlencode('Halo, saya ingin tanya tentang Paket Study Banding') }}"
                                 target="_blank" class="hover:underline">
-                                0856 4354 5218
+                                082333151697
                             </a>
                         </div>
                         <div class="flex items-center justify-center">
                             <i class="fas fa-phone-alt text-orange-500 mr-2"></i>
-                            <a href="https://wa.me/6285713366266?text={{ urlencode('Halo, saya ingin tanya tentang Paket Study Banding') }}"
+                            <a href="https://wa.me/6281334856534?text={{ urlencode('Halo, saya ingin tanya tentang Paket Study Banding') }}"
                                 target="_blank" class="hover:underline">
-                                0857 1336 6266
+                                081334856534
                             </a>
                         </div>
                     </div>
