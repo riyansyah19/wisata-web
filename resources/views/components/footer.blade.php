@@ -16,42 +16,24 @@
             </div>
 
 
-            <!-- Resources -->
-            <div>
-                <h2 class="mb-4 text-sm font-semibold uppercase">Resources</h2>
-                <ul class="text-gray-600 font-medium space-y-2">
-                    <li>
-                        <a href="https://www.lerepdesawisata.com/" class="hover:underline">Website Resmi</a>
-                    </li>
-                    <li>
-                        <a href="#" class="hover:underline">Paket Wisata</a>
-                    </li>
-                    <li>
-                        <a href="#" class="hover:underline">Galeri Wisata</a>
-                    </li>
-                    <li>
-                        <a href="#" class="hover:underline">Agenda Budaya</a>
-                    </li>
-                </ul>
-            </div>
-
+            
             <!-- Media Sosial -->
             <div>
                 <h2 class="mb-4 text-sm font-semibold uppercase">Follow Us</h2>
                 <ul class="text-gray-600 font-medium space-y-2">
                     <li>
-                        <a href="https://www.facebook.com/desawisatalerepungaran/?_rdc=2&_rdr"
+                        <a href="https://www.facebook.com/pages/Dinas%20Kebudayaan%20Pariwisata%20Sumenep/190114641168802/#"
                             class="hover:underline">Facebook</a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/desawisatalerep/" class="hover:underline">Instagram</a>
+                        <a href="https://www.instagram.com/disbudporaparsumenep/" class="hover:underline">Instagram</a>
                     </li>
                     <li>
-                        <a href="https://www.youtube.com/channel/UCgRLgw7EzDiqmZeEg9f-Agg"
+                        <a href="https://www.youtube.com/@pariwisatasumenep4488"
                             class="hover:underline">Youtube</a>
                     </li>
                     <li>
-                        <a href="https://x.com/DesaLerep" class="hover:underline">X</a>
+                        <a href="https://x.com/sumenep_wisata" class="hover:underline">X</a>
                     </li>
                 </ul>
             </div>
