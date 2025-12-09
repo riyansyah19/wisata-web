@@ -21,13 +21,13 @@
             <div class="max-w-7xl mx-auto">
                 <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-6">
                     <div>
-                        <h1 class="text-2xl md:text-3xl font-bold text-gray-800">Daftar Paket</h1>
-                        <p class="text-gray-600 mt-1">Kelola semua paket yang tersedia</p>
+                        <h1 class="text-2xl md:text-3xl font-bold text-gray-800">Daftar Wisata</h1>
+                        <p class="text-gray-600 mt-1">Kelola semua wisata yang tersedia</p>
                     </div>
                     <a href="{{ route('wisata.create') }}"
                         class="flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-lg transition-colors">
                         <i class="fas fa-plus"></i>
-                        <span>Tambah Paket</span>
+                        <span>Tambah wisata</span>
                     </a>
                 </div>
 
